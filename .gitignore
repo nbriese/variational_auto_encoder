@@ -1,3 +1,12 @@
+# torchvision data sets
+data/
+
+# image outputs
+*.png
+
+# model export files
+*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
